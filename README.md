@@ -26,7 +26,7 @@ Cloud computing makes data backup, disaster recovery and business continuity eas
 Many cloud providers offer a broad set of policies, technologies and controls that strengthen your security posture overall, helping protect your data, apps and infrastructure from potential threats.
 
 ---
-##Types of cloud computing
+## Types of cloud computing
 
 There are three different ways to deploy cloud services: on a public cloud, private cloud or hybrid cloud.
 
@@ -38,13 +38,17 @@ A private cloud refers to cloud computing resources used exclusively by a single
 
 **Hybrid cloud**
 Hybrid clouds combine public and private clouds, bound together by technology that allows data and applications to be shared between them. By allowing data and applications to move between private and public clouds, a hybrid cloud gives your business greater flexibility, more deployment options and helps optimise your existing infrastructure, security and compliance.
+
 ---
-##Types of cloud services: 
+
+## Types of cloud services
+
 Most cloud computing services fall into four broad categories:
-- IaaS **Infrastructure as a service (IaaS)
-- PaaS **Platform as a service (PaaS)
-- serverless
-- SaaS **Software as a service (SaaS)
+
+- IaaS *Infrastructure as a service (IaaS)*
+- PaaS *Platform as a service (PaaS)*
+- Serverless Computing
+- SaaS *Software as a service (SaaS)*
 
 **Infrastructure as a service (IaaS)**
 The most basic category of cloud computing services. With IaaS, you rent IT infrastructure—servers and virtual machines (VMs), storage, networks, operating systems—from a cloud provider on a pay-as-you-go basis
