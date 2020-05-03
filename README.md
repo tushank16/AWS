@@ -45,10 +45,10 @@ Hybrid clouds combine public and private clouds, bound together by technology th
 
 Most cloud computing services fall into four broad categories:
 
-- IaaS *Infrastructure as a service (IaaS)*
-- PaaS *Platform as a service (PaaS)*
-- Serverless Computing
-- SaaS *Software as a service (SaaS)*
+- *Infrastructure as a service (IaaS)*
+- *Platform as a service (PaaS)*
+- *Serverless Computing*
+- *Software as a service (SaaS)*
 
 **Infrastructure as a service (IaaS)**
 The most basic category of cloud computing services. With IaaS, you rent IT infrastructure—servers and virtual machines (VMs), storage, networks, operating systems—from a cloud provider on a pay-as-you-go basis
