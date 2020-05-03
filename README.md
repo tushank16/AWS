@@ -4,8 +4,8 @@ Cloud computing is the delivery of on-demand computing services from application
 ---
 ## Benefits of cloud computing
 
-**Cost**
-Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site datacenters—the racks of servers, the round-the-clock electricity for power and cooling, the IT experts for managing the infrastructure. It adds up fast.
+**Cost** >
+>Cloud computing eliminates the capital expense of buying hardware and software and setting up and running on-site datacenters—the racks > of servers, the round-the-clock electricity for power and cooling, the IT experts for managing the infrastructure. It adds up fast.
 
 **Speed**
 Most cloud computing services are provided self service and on demand, so even vast amounts of computing resources can be provisioned in minutes, typically with just a few mouse clicks, giving businesses a lot of flexibility and taking the pressure off capacity planning.
